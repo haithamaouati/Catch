@@ -34,7 +34,7 @@ Help
 ----
     python3 Catch.py [-h]
     
-###### Options
+###### Optional Arguments
 `-h, --help`
 show this help message and exit
 
