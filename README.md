@@ -24,6 +24,7 @@ Installation
 ----
     git clone https://github.com/haithamaouati/Catch.git
     cd Catch
+    pip install -r requirements.txt
     chmod+x Catch.py
     
 Usage
