@@ -15,8 +15,8 @@ Requirements
 
 Modules
 ----
-    colorama
-    requests
+* colorama
+* requests
     
 Installation
 ----
