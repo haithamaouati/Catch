@@ -5,22 +5,22 @@
 
 A simple admin panel finder tool.
 
-Screenshots
+### Screenshots
 ----
 ![Screenshot](https://raw.githubusercontent.com/haithamaouati/Catch/main/screenshot.png?raw=true "Optional Title")
 ![Screenshot](https://raw.githubusercontent.com/haithamaouati/Catch/main/screenshot2.png?raw=true "Optional Title")
 
-Requirements
+### Requirements
 ----
 * [Python 3.9.4](https://www.python.org)
 
-Modules
+### Modules
 ----
     pip3 install colorama
     pip3 install requests
     pip3 install time
     
-Installation
+### Installation
 ----
 1. Install git package
     ```
@@ -51,11 +51,11 @@ Installation
     pip install colorama
     ```
     
-Usage
+### Usage
 ----
     python3 Catch.py [-h] [-u <url>] [-w <wordlist>]
 
-Help
+### Help
 ----
     python3 Catch.py [-h]
     
@@ -73,23 +73,23 @@ Wordlist file (e.g. wordlist.txt)
    - Find the Control Panel path
    - Find the Shell path
 
-Environments
+### Environments
 ----
 * Windows
 * Linux
 * macOS
 
-Disclaimer
+### Disclaimer
 ----
 We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
 
-Community
+### Community
 ----
 Join us [**Elite Crew**](https://www.facebook.com/groups/elitecrew1/)
 
 **Elite Crew**, an Arab group on Facebook that includes **geeks** obsessed with the **technical** field in general and **cybersecurity** in particular, a safe and reliable source.
 
-Author
+### Author
 ----
 
 Made with ❤️ and **bugs** by [**Haitham Aouati**](https://www.facebook.com/haithamaouati1/)
