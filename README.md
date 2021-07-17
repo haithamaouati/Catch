@@ -26,9 +26,9 @@ Installation
     apt install git
     ```
     
-2. Install python
+2. Install python package
     ```
-    apt install python package
+    apt install python
     ```
     
 3. Clone the repository
