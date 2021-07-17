@@ -7,7 +7,7 @@ A simple admin panel finder tool.
 
 Screenshots
 ----
-
+![Screenshot](https://raw.githubusercontent.com/haithamaouati/Catch/main/screenshot.PNG?raw=true "Optional Title")
 
 Requirements
 ----
