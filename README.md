@@ -46,9 +46,9 @@ A simple admin panel finder tool.
     chmod+x Catch.py
     ```
     
-6. Install required packages
+6. Install requirements
     ```
-    pip install colorama
+    pip install -r requirements.txt
     ```
     
 ### Usage
@@ -70,8 +70,8 @@ URL website (e.g. http://127.0.0.1/)
 Wordlist file (e.g. wordlist.txt)
 
 ### Features
-   - Find the Control Panel path
-   - Find the Shell path
+   - Find the admin panel path
+   - Find the php shell path
 
 ### Environments
 ----
