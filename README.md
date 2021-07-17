@@ -5,22 +5,21 @@
 
 A simple admin panel finder tool.
 
-### Screenshots
+Screenshots
 ----
 ![Screenshot](https://raw.githubusercontent.com/haithamaouati/Catch/main/screenshot.png?raw=true "Optional Title")
 ![Screenshot](https://raw.githubusercontent.com/haithamaouati/Catch/main/screenshot2.png?raw=true "Optional Title")
 
-### Requirements
+Requirements
 ----
 * [Python 3.9.4](https://www.python.org)
 
-### Modules
+Modules
 ----
-    pip3 install colorama
-    pip3 install requests
-    pip3 install time
+    colorama
+    requests
     
-### Installation
+Installation
 ----
 1. Install git package
     ```
@@ -51,11 +50,11 @@ A simple admin panel finder tool.
     pip install -r requirements.txt
     ```
     
-### Usage
+Usage
 ----
     python3 Catch.py [-h] [-u <url>] [-w <wordlist>]
 
-### Help
+Help
 ----
     python3 Catch.py [-h]
     
@@ -69,21 +68,22 @@ URL website (e.g. http://127.0.0.1/)
 `-w, --wordlist`
 Wordlist file (e.g. wordlist.txt)
 
-### Features
+Features
+----
    - Find the admin panel path
    - Find the php shell path
 
-### Environments
+Environments
 ----
 * Windows
 * Linux
 * macOS
 
-### Disclaimer
+Disclaimer
 ----
 We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
 
-### Community
+Community
 ----
 Join us [**Elite Crew**](https://www.facebook.com/groups/elitecrew1/)
 
