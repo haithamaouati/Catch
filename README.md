@@ -23,25 +23,31 @@ Modules
 Installation
 ----
 1. Install git package
+    ```
     apt install git
     ```
     
 2. Install python
+    ```
     apt install python package
     ```
     
 3. Clone the repository
+    ```
     git clone https://github.com/haithamaouati/Catch.git
     ```
 4. Change to Catch directory
+    ```
     cd Catch
     ```
     
 5. Change the access mode
+    ```
     chmod+x Catch.py
     ```
     
 6. Install required packages
+    ```
     pip install colorama
     ```
     
