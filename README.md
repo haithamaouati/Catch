@@ -20,36 +20,36 @@ Modules
     
 Installation
 ----
-0. Update & upgrade packages
+1. Update & upgrade packages
     ```
-    apt update && apt upgrade -y
-    ```
-    
-1. Install git package
-    ```
-    apt install git -y
+    apt update && apt upgrade
     ```
     
-2. Install python package
+2. Install git package
     ```
-    apt install python -y
+    apt install git
     ```
     
-3. Clone the repository
+3. Install python package
+    ```
+    apt install python
+    ```
+    
+4. Clone the repository
     ```
     git clone https://github.com/haithamaouati/Catch.git
     ```
-4. Change to Catch directory
+5. Change to Catch directory
     ```
     cd Catch
     ```
     
-5. Change the access mode
+6. Change the access mode
     ```
     chmod+x Catch.py
     ```
     
-6. Install requirements
+7. Install requirements
     ```
     pip install -r requirements.txt
     ```
