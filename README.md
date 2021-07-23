@@ -20,14 +20,19 @@ Modules
     
 Installation
 ----
+0. Update & upgrade packages
+    ```
+    apt update && apt upgrade -y
+    ```
+    
 1. Install git package
     ```
-    apt install git
+    apt install git -y
     ```
     
 2. Install python package
     ```
-    apt install python
+    apt install python -y
     ```
     
 3. Clone the repository
