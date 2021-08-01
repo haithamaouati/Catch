@@ -22,17 +22,17 @@ Installation
 ----
 1. Update & upgrade packages
     ```
-    apt update && apt upgrade
+    apt update && apt upgrade -y
     ```
     
 2. Install git package
     ```
-    apt install git
+    apt install git -u
     ```
     
 3. Install python package
     ```
-    apt install python
+    apt install python -y
     ```
     
 4. Clone the repository
