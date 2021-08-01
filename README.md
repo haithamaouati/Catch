@@ -48,6 +48,10 @@ Installation
 Usage
 ----
     python3 Catch.py [-h] [-u <url>] [-w <wordlist>]
+    
+Example
+----
+    python3 Catch.py -u https://127.0.0.1/ -w wordlist.txt
 
 Help
 ----
