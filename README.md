@@ -8,15 +8,6 @@ A simple admin panel finder tool.
 Screenshots
 ----
 ![Screenshot](https://raw.githubusercontent.com/haithamaouati/Catch/main/screenshot.PNG?raw=true "Optional Title")
-
-Requirements
-----
-* [Python 3.9.4](https://www.python.org)
-
-Modules
-----
-* colorama
-* requests
     
 Installation
 ----
