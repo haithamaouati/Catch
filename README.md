@@ -93,5 +93,5 @@ Join us [**Elite Crew**](https://www.facebook.com/groups/elitecrew1/)
 ----
 
 Made with ❤️ and **bugs** by [**Haitham Aouati**](https://www.facebook.com/haithamaouati1/)
-> GitHub [@builtbybel](https://github.com/haithamaouati1) &nbsp;&middot;&nbsp;
-> Twitter [@builtbybel](https://twitter.com/haithamaouati)
+GitHub [@haithamaouati](https://github.com/haithamaouati1) &nbsp;&middot;&nbsp;
+Twitter [@haithamaouati](https://twitter.com/haithamaouati)
