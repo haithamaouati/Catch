@@ -69,9 +69,9 @@ Wordlist file (e.g. wordlist.txt)
 
 Features
 ----
-   - Find the admin panel path
-   - Find the php shell path
-   - ~~Find the deface path~~
+   - [x] Find the admin panel path
+   - [x] Find the php shell path
+   - [ ] ~~Find the deface path~~
 
 Environments
 ----
