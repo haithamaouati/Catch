@@ -9,8 +9,6 @@ A simple admin panel finder tool.
 
 ![Screenshot](https://raw.githubusercontent.com/haithamaouati/Catch/main/screenshot.PNG?raw=true "Optional Title")
 
-# Table of Contents
-
 ## Installation
 
 1. Update & upgrade packages
@@ -85,11 +83,9 @@ Wordlist file (e.g. wordlist.txt)
 
 > We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
 
-## Community
+## License
 
-Join us [**Elite Crew**](https://www.facebook.com/groups/elitecrew1/)
-
-**Elite Crew**, an Arab group on Facebook that includes **geeks** obsessed with the **technical** field in general and **cybersecurity** in particular, a safe and reliable source.
+This repository is under **MIT license**.
 
 ### Author
 
