@@ -105,4 +105,4 @@ Twitter [@haithamaouati](https://twitter.com/haithamaouati)
 
 ## License
 
-This repository is under **MIT license**.
+This repository is under [**Unlicense License**](https://github.com/haithamaouati/Catch/blob/main/LICENSE).
