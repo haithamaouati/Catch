@@ -49,7 +49,7 @@ A simple admin panel finder tool.
     
 6. Change the access mode
     ```
-    chmod+x Catch.py
+    chmod +x Catch.py
     ```
     
 7. Install requirements
