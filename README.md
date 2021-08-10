@@ -5,11 +5,13 @@
 
 A simple admin panel finder tool.
 
-# Screenshots
+## Screenshots
 
 ![Screenshot](https://raw.githubusercontent.com/haithamaouati/Catch/main/screenshot.PNG?raw=true "Optional Title")
-    
-# Installation
+
+# Table of Contents
+
+## Installation
 
 1. Update & upgrade packages
     ```
@@ -45,15 +47,15 @@ A simple admin panel finder tool.
     pip install -r requirements.txt
     ```
     
-# Usage
+## Usage
 
     python3 Catch.py [-h] [-u <url>] [-w <wordlist>]
     
-# Example
+## Example
 
     python3 Catch.py -u https://127.0.0.1/ -w wordlist.txt
 
-# Help
+## Help
 
     python3 Catch.py [-h]
     
@@ -67,23 +69,23 @@ URL website (e.g. http://127.0.0.1/)
 `-w, --wordlist`
 Wordlist file (e.g. wordlist.txt)
 
-# Features
+## Features
 
    - [x] Find the admin panel path
    - [x] Find the php shell path
    - [ ] ~~Find the deface path~~
 
-# Environments
+## Environments
 
 * Windows
 * Linux
 * macOS
 
-# Disclaimer
+## Disclaimer
 
 > We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
 
-# Community
+## Community
 
 Join us [**Elite Crew**](https://www.facebook.com/groups/elitecrew1/)
 
