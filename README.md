@@ -18,7 +18,7 @@ Installation
     
 2. Install git package
     ```
-    apt install git -u
+    apt install git -y
     ```
     
 3. Install python package
