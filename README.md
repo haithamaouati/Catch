@@ -71,6 +71,7 @@ Features
 ----
    - Find the admin panel path
    - Find the php shell path
+   - ~~Find the deface path~~
 
 Environments
 ----
