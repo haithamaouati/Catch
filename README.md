@@ -89,8 +89,6 @@ Wordlist file (e.g. wordlist.txt)
 
 * Windows
 * Linux
- * Kali Linux
- * Termux
 * macOS
 
 ## Disclaimer
