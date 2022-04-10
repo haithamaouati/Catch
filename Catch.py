@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-# Author: @haithamaouati
-# Version:1.0
+# Author: Haitham Aouati
 
 import argparse
 import colorama
@@ -21,7 +20,7 @@ print('''\
            `-    \`_`"'-
 ''')
 
-print(' Author: ' + Fore.CYAN + '@haithamaouati' + Fore.WHITE + ' Version: ' + Fore.YELLOW + '1.0\n' + Fore.WHITE)
+print(' Author: ' + Fore.CYAN + 'Haitham Aouati' + Fore.WHITE + ' Version: ' + Fore.YELLOW + '1.0\n' + Fore.WHITE)
 print(' A simple admin panel finder tool\n')
 
 parser = argparse.ArgumentParser()
@@ -46,7 +45,7 @@ with open(wordlist,'r') as list:
         with open("result.txt",'a') as result:
           result.write(url + x +"\n")
         print(Fore.GREEN + '[+] ' + Fore.WHITE + url + x + Fore.GREEN + ' [200]')
-        print(Fore.GREEN + '[*] ' + Fore.WHITE + 'Saved to: ' + Fore.YELLOW + 'result.txt')
+        print(Fore.GREEN + '[*] ' + Fore.WHITE + 'Saved: ' + Fore.YELLOW + 'result.txt')
         result.close()
       else:
         print(Fore.RED + '[-] ' + Fore.WHITE + url + x + Fore.RED + ' [404]')
