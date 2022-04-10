@@ -25,17 +25,17 @@ Catch - A simple admin panel finder tool.
 
 1. Update & upgrade packages
     ```
-    apt update && apt upgrade -y
+    apt update -yy && apt upgrade -yy
     ```
     
 2. Install git package
     ```
-    apt install git -y
+    apt install git -yy
     ```
     
 3. Install python package
     ```
-    apt install python -y
+    apt install python -yy
     ```
     
 4. Clone the repository
