@@ -3,7 +3,7 @@
 ![GitHub repository](https://img.shields.io/badge/haithamaouati-Catch-blue?style=flat-square&logo=github)
 ![GitHub version](https://img.shields.io/badge/version-1.0-yellow?style=flat-square)
 
-A simple admin panel finder tool.
+Catch - A simple admin panel finder tool.
 
 ## Screenshots
 
@@ -81,9 +81,9 @@ Wordlist file (e.g. wordlist.txt)
 
 ## Features
 
-   - [x] Find the admin panel path
-   - [x] Find the php shell path
-   - [ ] ~~Find the deface path~~
+   - [x] Find admin panel path
+   - [x] Find php shell path
+   - [ ] ~~Find deface path~~
 
 ## Environments
 
@@ -97,9 +97,7 @@ Wordlist file (e.g. wordlist.txt)
 
 ## Author
 
-Made with ❤️ and **bugs** by [**Haitham Aouati**](https://www.facebook.com/haithamaouati1/)
-&nbsp;&middot;&nbsp;
-Twitter [@haithamaouati](https://twitter.com/haithamaouati)
+Made with **bugs** by [**Haitham Aouati**](https://twitter.com/haithamaouati)
 
 ([Table of Contents](#table-of-contents))
 
