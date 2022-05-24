@@ -90,6 +90,7 @@ Wordlist file (e.g. wordlist.txt)
 * Windows
 * Linux
 * macOS
+* Android (Termux)
 
 ## Disclaimer
 
